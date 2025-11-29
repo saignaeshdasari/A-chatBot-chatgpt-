@@ -1,2 +1,2 @@
 # A-chatBot-chatgpt-
-A chatgpt bot made by using React.js
+A chatgpt bot made by using React.js and CHatgpt api key...
